@@ -1,0 +1,17 @@
+name = "Basscss"
+license = "MIT"
+licenselink = "https://github.com/marloncabrera/basscss/LICENSE.md"
+description = "Hugo Theme built using Basscss framework"
+homepage = "http://marloncabrera.github.com/basscss"
+tags = ["tags", "categories"]
+features = ["", ""]
+
+[author]
+  name = "Marlon Cabrera Oliveira"
+  homepage = "http://nolram.com"
+
+# If porting an existing theme
+[original]
+  name = "Tachyon"
+  homepage = "http://marloncabrera.github.com/tachyon"
+  repo = "http://github.com/marloncabrera/tachyon"

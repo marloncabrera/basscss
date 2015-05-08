@@ -1,11 +1,11 @@
-Tachyons
+Basscss
 ==========
 
-Tachyons is a responsive & fast [Hugo](http://gohugo.io) theme made with the amazing [TACHYONS](http://www.tachyons.io) CSS framework & [GEOMICONS](http://geomicons.com).
+Basscss is a responsive & fast [Hugo](http://gohugo.io) theme made with the amazing [BASSCSS](http://www.basscss.com) CSS framework.
 
-Please see a demo site [here](http://marloncabrera.github.io/tachyons) and another example [here](http://nolram.com).
+Please see a demo site [here](http://marloncabrera.github.io/basscss).
 
-![Tachyons screenshot](https://github.com/marloncabrera/tachyons/blob/master/images/tn.png)
+![basscss screenshot](https://github.com/marloncabrera/basscss/blob/master/images/tn.png)
 
 ## Contents
 
@@ -35,7 +35,7 @@ $ hugo new site /path/to/site
 $ cd /path/to/site
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/marloncabrera/tachyons.git
+$ git clone https://github.com/marloncabrera/basscss.git
 ```
 
 See [Options](#options) below to customize your blog.
@@ -49,14 +49,14 @@ $ hugo new post/first.md
 * **Run Hugo and see the results**
 
 ```
-$ hugo server --theme=tachyons --buildDrafts --watch
+$ hugo server --theme=basscss --buildDrafts --watch
 ```
 
 Open your browser at [http://localhost:1313](http://localhost:1313) to see the results.
 
 ## Options
 
-Customize your blog editing the header & footer under themes/tachyons/layouts/partials/ directory.
+Customize your blog editing the header & footer under themes/basscss/layouts/partials/ directory.
 
 
 ### Header
@@ -188,7 +188,7 @@ Icon    | ID
 - <https://twitter.com/spf13>
 
 **Adam Morse**
-- <http://tachyons.io>
+- <http://basscss.io>
 - <http://github.com/mrmrs>
 - <http://twitter.com/mrmrs_>
 
